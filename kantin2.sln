@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kantin2.desktop", "kantin2.desktop\kantin2.desktop.csproj", "{DA1B7755-34B8-47A4-8E0D-FBB358E92774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kantin.library", "kantin.library\kantin.library.csproj", "{7C84DB16-6DAB-45FE-82B5-6CC06E2BD7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1B7755-34B8-47A4-8E0D-FBB358E92774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1B7755-34B8-47A4-8E0D-FBB358E92774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1B7755-34B8-47A4-8E0D-FBB358E92774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1B7755-34B8-47A4-8E0D-FBB358E92774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C84DB16-6DAB-45FE-82B5-6CC06E2BD7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C84DB16-6DAB-45FE-82B5-6CC06E2BD7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C84DB16-6DAB-45FE-82B5-6CC06E2BD7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C84DB16-6DAB-45FE-82B5-6CC06E2BD7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD7A680-0011-47C4-84A9-82A8743AC6D1}
+	EndGlobalSection
+EndGlobal
